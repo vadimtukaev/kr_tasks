@@ -47,6 +47,7 @@ Line *Line_reverse(Line *self)
     }
     return self;
 }
+
 int main(void)
 {
     Line current;
